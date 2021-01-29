@@ -1,1 +1,3 @@
 # hexo
+
+Test hexo blog
