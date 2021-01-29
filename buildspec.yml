@@ -15,5 +15,4 @@ phases:
   post_build: 
     commands:
       - ls -la public/
-      - cd public
-      - aws s3 sync . s3://blog.joshlillie.com/
+      - cd public/ && aws s3 sync . s3://blog.joshlillie.com/
