@@ -5,4 +5,8 @@ tags:
 ---
 I have very primitive markdown knowledge, and need to practive using it some (or a lot). 
 
-![My Fucking Image](/images/laquerhead.jpg)
+!["Pop!"](/images/laquerhead.jpg)
+
+Let's see if this one renders smaller.
+
+!["Smaller Pop"](/images/laquerhead.jpg) =200x
