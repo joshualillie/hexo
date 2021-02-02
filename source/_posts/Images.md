@@ -16,13 +16,13 @@ Ok... that one didn't seem to work.. how about we try embedding some HTML in our
 Let's try...
 
 ```html
-<img src="/images/laquerhead.jpq" style="width:100px" >
+<img src="/images/laquerhead.jpg" style="width:100px" >
 <br>
-<img src="/images/laquerhead.jpq" style="width:200px" >
+<img src="/images/laquerhead.jpg" style="width:200px" >
 ```
-<img src="/images/laquerhead.jpq" style="width:100px" >
+<img src="/images/laquerhead.jpg" style="width:100px" >
 <br>
-<img src="/images/laquerhead.jpq" style="width:200px" >
+<img src="/images/laquerhead.jpg" style="width:200px" >
 
 How about a simple HTML Table?
 
