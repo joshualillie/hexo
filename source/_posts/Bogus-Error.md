@@ -2,6 +2,9 @@
 title: Bogus Error
 date: 2021-02-08 19:41:38
 tags:
+- development
+categories:
+- Development
 ---
 I spent several hours on an AWS goose chase and have come to the conclusion that AWS has a faulty error. Some may feel that the fault is my own and that the problem should have been obvious, but even if this is true, it does not change the fact that AWS's error, at the time of this writing, is wrong.
 
