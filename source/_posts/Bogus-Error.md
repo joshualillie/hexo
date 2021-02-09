@@ -8,7 +8,7 @@ categories:
 ---
 I spent several hours on an AWS goose chase and have come to the conclusion that AWS has a faulty error. Some may feel that the fault is my own and that the problem should have been obvious, but even if this is true, it does not change the fact that AWS's error, at the time of this writing, is wrong.
 
-<img src="/images/bogus_error.png" style="width:200px; float:left;"> 
+<img src="/images/bogus_error.png"> 
 
 I ran into the problem while trying to accomplish a very simple task :
 
